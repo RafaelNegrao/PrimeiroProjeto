@@ -1,0 +1,1 @@
+alert("Está mensagem está referenciada de um script externo do arquivo index")
