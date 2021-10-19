@@ -17,6 +17,7 @@ button.onclick = function(){
         }
 
         alert ("Você irá pagar "+parcelas +" parcelas no valor de "+ ValorPrestacao +" reais")
+        alert ("Obrigado por comprar conosco!")
 
 
 
